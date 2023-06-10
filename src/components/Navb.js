@@ -13,7 +13,7 @@ const Navb = () => {
             <Nav.Link href="/">Home</Nav.Link>
             <Nav.Link href="/About">About Me</Nav.Link>
             <Nav.Link href="/Skills">Skills</Nav.Link>
-            <Nav.Link href="/Projects">Projects</Nav.Link>
+            <Nav.Link href="/Project">Projects</Nav.Link>
             <Nav.Link href="/Contact">Contact</Nav.Link>
           </Nav>
         </Container>
